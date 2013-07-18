@@ -4,6 +4,10 @@ How To
 A collection of knowledge from the realm of Sleep Medicine Epidemiology at Brigham and Women's Hospital.
 
 
+### [1000 File Transfer](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1000-file-transfer.md)
+
+- [1100 - Diplomat](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1100-diplomat.md)
+
 
 ### [2000 Provisioning](https://github.com/sleepepi/howto/blob/master/2000-provisioning/2000-provisioning.md)
 
