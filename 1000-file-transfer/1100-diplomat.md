@@ -6,10 +6,10 @@
 ### Existing Diplomat Jobs
 
 - CHAT
--- SFTR220 - Site 10
--- SFTR221 - Site 20
+    - SFTR220 - Site 10
+    - SFTR221 - Site 20
 
 ### Key Contacts
 
-Dan Murphy (Murphy, Daniel F.,PHS <DFMURPHY@PARTNERS.ORG>) from Partners Enterprise Applications.
+Dan Murphy (dfmurphy@partners.org) from Partners Enterprise Applications.
 
