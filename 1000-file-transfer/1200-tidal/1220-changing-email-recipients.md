@@ -1,4 +1,4 @@
-## 1120 Changing Email Recipients
+## 1220 Changing Email Recipients
 
 In order to change (add/remove) email recipients on a given job, submit a [Help Desk Ticket](http://helpdeskselfservice.partners.org) that includes the following:
 
