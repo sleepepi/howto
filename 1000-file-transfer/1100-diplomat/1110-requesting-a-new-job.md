@@ -1,11 +1,12 @@
 ## 1110 Requesting a New Job
 
-In order to setup a new Diplomat job, a [Help Desk Ticket](http://helpdeskselfservice.partners.org) must be submitted. Preface the ticket by stating, "The following request should go to Partners Enterprise Applications", to ensure that the ticket is routed correctly. The following information must be included in the ticket:
+In order to setup a new Diplomat job, submit a [Help Desk Ticket](http://helpdeskselfservice.partners.org) that includes the following:
 
-1. Project name
-2. Server information (SFTP server, login and password)
-3. Desired transfer frequency and times (e.g. twice a day at 11 a.m. and 11 p.m.)
-4. Start date for job to go into effect
+1. A preface stating, "The following request should go to Partners Enterprise Applications", to ensure that the ticket is routed correctly
+2. Project name
+3. Server information (SFTP server, login and password)
+4. Desired transfer frequency and times (e.g. twice a day at 11 a.m. and 11 p.m.)
+5. Start date for job to go into effect
 
 
 ### Next Section
