@@ -1,4 +1,4 @@
-## 2100 Requesting a Virtual Machine
+## 3100 Requesting a Virtual Machine
 
 New virtual machines are requested using the form found at [Research Computing - DIPR Signup](https://rc.partners.org/dipr_signup).
 
@@ -41,4 +41,4 @@ Most Virtual Machine DIPR requests are completed by Aaron Zschau <azschau@partne
 
 ### Next Section
 
-[2200 - Requesting a Database](https://github.com/sleepepi/howto/blob/master/2000-provisioning/2200-requesting-a-database.md)
+[3200 - Requesting a Database](https://github.com/sleepepi/howto/blob/master/3000-provisioning/3200-requesting-a-database.md)
