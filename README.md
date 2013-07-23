@@ -14,10 +14,15 @@ A collection of knowledge from the realm of Sleep Medicine Epidemiology at Brigh
     - [1220 - Changing Email Recipients](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1200-tidal/1220-changing-email-recipients.md)
 
 
-### [2000 Provisioning](https://github.com/sleepepi/howto/blob/master/2000-provisioning/2000-provisioning.md)
+### [2000 File Storage](https://github.com/sleepepi/howto/blob/master/2000-file-storage/2000-file-storage.md)
 
-- [2100 - Requesting a Virtual Machine](https://github.com/sleepepi/howto/blob/master/2000-provisioning/2100-requesting-a-virtual-machine.md)
-- [2200 - Requesting a Database](https://github.com/sleepepi/howto/blob/master/2000-provisioning/2200-requesting-a-database.md)
+- [2100 - Research File Area (RFA)](https://github.com/sleepepi/howto/blob/master/2000-file-storage/2100-research-file-area-rfa.md)
+
+
+### [3000 Provisioning](https://github.com/sleepepi/howto/blob/master/3000-provisioning/3000-provisioning.md)
+
+- [3100 - Requesting a Virtual Machine](https://github.com/sleepepi/howto/blob/master/3000-provisioning/3100-requesting-a-virtual-machine.md)
+- [3200 - Requesting a Database](https://github.com/sleepepi/howto/blob/master/3000-provisioning/3200-requesting-a-database.md)
 
 
 ## Copyright [![Creative Commons 3.0](http://i.creativecommons.org/l/by-nc-nd/3.0/80x15.png)](http://creativecommons.org/licenses/by-nc-nd/3.0)

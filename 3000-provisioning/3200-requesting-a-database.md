@@ -1,4 +1,4 @@
-## 2200 Requesting a Database
+## 3200 Requesting a Database
 
 New database requests are requested using the form found at [Research Computing - Partners Database Registration](http://rc.partners.org/eris_db).
 
