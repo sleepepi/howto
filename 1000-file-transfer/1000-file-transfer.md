@@ -4,3 +4,5 @@ A number of different methods for file transfer are used in our group, many of w
 
 - [1100 - Diplomat](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1100-diplomat/1100-diplomat.md)
 - [1200 - Tidal](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1200-tidal/1200-tidal.md)
+- [1300 - SFTP](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1300-sftp.md)
+- [1400 - Secure File Transfer](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1400-secure-file-transfer.md)

@@ -12,6 +12,8 @@ A collection of knowledge from the realm of Sleep Medicine Epidemiology at Brigh
 - [1200 - Tidal](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1200-tidal/1200-tidal.md)
     - [1210 - Requesting a New Job](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1200-tidal/1210-requesting-a-new-job.md)
     - [1220 - Changing Email Recipients](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1200-tidal/1220-changing-email-recipients.md)
+- [1300 - SFTP](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1300-sftp.md)
+- [1400 - Secure File Transfer](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1400-secure-file-transfer.md)
 
 
 ### [2000 File Storage](https://github.com/sleepepi/howto/blob/master/2000-file-storage/2000-file-storage.md)
