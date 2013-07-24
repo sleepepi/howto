@@ -1,4 +1,4 @@
-## 1210 Requesting a New Job
+## 1210 Request a New Job
 
 In order to setup a new Tidal job, submit a [Help Desk Ticket](http://helpdeskselfservice.partners.org) that includes the following:
 
@@ -13,4 +13,4 @@ In order to setup a new Tidal job, submit a [Help Desk Ticket](http://helpdeskse
 
 ### Next Section
 
-[1220 - Changing Email Recipients](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1200-tidal/1220-changing-email-recipients.md)
+[1220 - Change Email Recipients](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1200-tidal/1220-change-email-recipients.md)

@@ -1,4 +1,4 @@
-## 1110 Requesting a New Job
+## 1110 Request a New Job
 
 In order to setup a new Diplomat job, submit a [Help Desk Ticket](http://helpdeskselfservice.partners.org) that includes the following:
 
@@ -11,4 +11,4 @@ In order to setup a new Diplomat job, submit a [Help Desk Ticket](http://helpdes
 
 ### Next Section
 
-[1120 - Changing Email Recipients](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1100-diplomat/1120-changing-email-recipients.md)
+[1120 - Change Email Recipients](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1100-diplomat/1120-change-email-recipients.md)

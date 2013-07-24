@@ -2,9 +2,8 @@
 
 [Diplomat Transfer](http://rc.partners.org/diplomat) is an application used at Partners for the exchange of files (both incoming and outgoing to the institution.) For most Sleep Reading Center projects, Diplomat is used as a means to routinely and securely transfer data that collaborating sites upload to our SFTP server. Typically, a single Diplomat "job" is created for each site on a given project.
 
-- [1110 - Requesting a New Job](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1100-diplomat/1110-requesting-a-new-job.md)
-
-- [1120 - Changing Email Recipients](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1100-diplomat/1120-changing-email-recipients.md)
+- [1110 - Request a New Job](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1100-diplomat/1110-request-a-new-job.md)
+- [1120 - Change Email Recipients](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1100-diplomat/1120-change-email-recipients.md)
 
 
 ### Existing Diplomat Jobs

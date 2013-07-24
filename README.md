@@ -7,11 +7,11 @@ A collection of knowledge from the realm of Sleep Medicine Epidemiology at Brigh
 ### [1000 File Transfer](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1000-file-transfer.md)
 
 - [1100 - Diplomat](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1100-diplomat/1100-diplomat.md)
-    - [1110 - Requesting a New Job](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1100-diplomat/1110-requesting-a-new-job.md)
-    - [1120 - Changing Email Recipients](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1100-diplomat/1120-changing-email-recipients.md)
+    - [1110 - Request a New Job](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1100-diplomat/1110-request-a-new-job.md)
+    - [1120 - Change Email Recipients](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1100-diplomat/1120-change-email-recipients.md)
 - [1200 - Tidal](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1200-tidal/1200-tidal.md)
-    - [1210 - Requesting a New Job](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1200-tidal/1210-requesting-a-new-job.md)
-    - [1220 - Changing Email Recipients](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1200-tidal/1220-changing-email-recipients.md)
+    - [1210 - Request a New Job](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1200-tidal/1210-request-a-new-job.md)
+    - [1220 - Change Email Recipients](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1200-tidal/1220-change-email-recipients.md)
 - [1300 - SFTP](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1300-sftp.md)
 - [1400 - Secure File Transfer](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1400-secure-file-transfer.md)
 
@@ -23,8 +23,14 @@ A collection of knowledge from the realm of Sleep Medicine Epidemiology at Brigh
 
 ### [3000 Provisioning](https://github.com/sleepepi/howto/blob/master/3000-provisioning/3000-provisioning.md)
 
-- [3100 - Requesting a Virtual Machine](https://github.com/sleepepi/howto/blob/master/3000-provisioning/3100-requesting-a-virtual-machine.md)
-- [3200 - Requesting a Database](https://github.com/sleepepi/howto/blob/master/3000-provisioning/3200-requesting-a-database.md)
+- [3100 - Request a Virtual Machine](https://github.com/sleepepi/howto/blob/master/3000-provisioning/3100-request-a-virtual-machine.md)
+- [3200 - Request a Database](https://github.com/sleepepi/howto/blob/master/3000-provisioning/3200-request-a-database.md)
+
+
+### [9000 Miscellaneous](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9000-miscellaneous.md)
+
+- [9010 - Activate a Network Port](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9010-activate-a-network-port.md)
+- [9020 - Reset a Partners Password](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9020-reset-a-partners-password.md)
 
 
 ## Copyright [![Creative Commons 3.0](http://i.creativecommons.org/l/by-nc-nd/3.0/80x15.png)](http://creativecommons.org/licenses/by-nc-nd/3.0)
