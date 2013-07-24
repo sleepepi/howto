@@ -31,6 +31,13 @@ A collection of knowledge from the realm of Sleep Medicine Epidemiology at Brigh
 
 - [9010 - Activate a Network Port](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9010-activate-a-network-port.md)
 - [9020 - Reset a Partners Password](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9020-reset-a-partners-password.md)
+- [9100 - Git](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9100-git.md)
+  - [9110 - Typical Git Workflow](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9110-typical-git-workflow.md)
+  - [9120 - Sublime Settings](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9120-sublime-settings.md)
+  - [9130 - Setup SSH Key](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9130-setup-ssh-key.md)
+  - [9140 - Amend a Commit Message](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9140-amend-a-commit-message.md)
+  - [9150 - Unstage a File](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9150-unstage-a-file.md)
+
 
 
 ## Copyright [![Creative Commons 3.0](http://i.creativecommons.org/l/by-nc-nd/3.0/80x15.png)](http://creativecommons.org/licenses/by-nc-nd/3.0)
