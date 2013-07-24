@@ -22,7 +22,7 @@ Expected estimated total database storage required:
 
 ### Key Contacts
 
-Most Database requests are completed by Allan Harris <ajharris@partners.org>.
+Most Database requests are completed by Allan Harris (ajharris@partners.org) and Eric Dyer (emdyer@partners.org).
 
 
 ### Next Section
