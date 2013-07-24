@@ -18,8 +18,6 @@ A common workflow may look like:
 
 ### Local Git Commands
 
-#### Git Add
-
 `git add` adds a non-tracked file and marks it as staged, or adds an existing tracked file that has been modified and marks it as staged
 
 To unstage a file see: [9150 - Unstage a File](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9150-unstage-a-file.md)
