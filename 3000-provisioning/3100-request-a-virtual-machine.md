@@ -36,7 +36,7 @@ Request that https access goes from https://VMNAME.partners.org and that http://
 
 ### Key Contacts
 
-Most Virtual Machine DIPR requests are completed by Aaron Zschau <azschau@partners.org>.
+Most Virtual Machine DIPR requests are completed by Aaron Zschau (azschau@partners.org).
 
 
 ### Next Section
