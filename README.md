@@ -27,6 +27,11 @@ A collection of knowledge from the realm of Sleep Medicine Epidemiology at Brigh
 - [3200 - Request a Database](https://github.com/sleepepi/howto/blob/master/3000-provisioning/3200-request-a-database.md)
 
 
+### [4000 Local Resources](https://github.com/sleepepi/howto/blob/master/4000-local-resources/4000-local-resources.md)
+
+- [4100 - Printers](https://github.com/sleepepi/howto/blob/master/4000-local-resources/4100-printers.md)
+
+
 ### [9000 Miscellaneous](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9000-miscellaneous.md)
 
 - [9010 - Activate a Network Port](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9010-activate-a-network-port.md)
