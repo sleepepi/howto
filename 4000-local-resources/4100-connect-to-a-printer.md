@@ -1,4 +1,4 @@
-## 4100 Printers
+## 4100 Connect to a Printer
 
 The primary printer, a **RICOH Aficio MP 6001**, is located in the BLI-225 office. Another printer, a **RICOH Aficio MP 6002**, is located in BLI-252.
 
@@ -30,4 +30,4 @@ Michael Cailler (mcailler@partners.org) and Michael Rueschman (mrueschman@partne
 
 ### Next Section
 
-[Back to Index](https://github.com/sleepepi/howto/blob/master/README.md)
+[4200 - Reserve a Conference Room](https://github.com/sleepepi/howto/blob/master/4000-local-resources/4100-reserve-a-conference-room.md)

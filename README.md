@@ -29,7 +29,8 @@ A collection of knowledge from the realm of Sleep Medicine Epidemiology at Brigh
 
 ### [4000 Local Resources](https://github.com/sleepepi/howto/blob/master/4000-local-resources/4000-local-resources.md)
 
-- [4100 - Printers](https://github.com/sleepepi/howto/blob/master/4000-local-resources/4100-printers.md)
+- [4100 - Connect to a Printer](https://github.com/sleepepi/howto/blob/master/4000-local-resources/4100-connect-to-a-printer.md)
+- [4200 - Reserve a Conference Room](https://github.com/sleepepi/howto/blob/master/4000-local-resources/4200-reserve-a-conference-room.md)
 
 
 ### [9000 Miscellaneous](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9000-miscellaneous.md)
