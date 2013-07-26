@@ -30,4 +30,4 @@ Michael Cailler (mcailler@partners.org) and Michael Rueschman (mrueschman@partne
 
 ### Next Section
 
-[4200 - Reserve a Conference Room](https://github.com/sleepepi/howto/blob/master/4000-local-resources/4100-reserve-a-conference-room.md)
+[4200 - Reserve a Conference Room](https://github.com/sleepepi/howto/blob/master/4000-local-resources/4200-reserve-a-conference-room.md)
