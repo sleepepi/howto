@@ -12,4 +12,4 @@ Contact the [Help Desk](http://helpdeskselfservice.partners.org/) if issues pers
 
 ### Next Section
 
-[9030 - Request a Partners Email Account]((https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9030-request-a-partners-email-account.md))
+[9030 - Request a Partners Email Account](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9030-request-a-partners-email-account.md)
