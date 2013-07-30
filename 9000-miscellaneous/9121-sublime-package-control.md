@@ -2,14 +2,14 @@
 
 We will be using the Sublime Text 3 instructions located here: [wbond.net/sublime_packages/package_control/installation#ST3](http://wbond.net/sublime_packages/package_control/installation#ST3)
 
-Open Sublime and Click `Preferences > Browse Packages`, or `Sublime Text > Preferences > Browse Packages` on Mac OS X.
-
-
 **BrowsePackagesDir**
 
-Windows `C:\Users\<username>\AppData\Roaming\Sublime Text 3\Packages`
-OSX: `/Users/<username>/Library/Application Support/Sublime Text 3/Packages/`
-
+- Windows
+  - Open Sublime and Click `Preferences > Browse Packages`
+  - `C:\Users\<username>\AppData\Roaming\Sublime Text 3\Packages`
+- Mac OS X
+  - Open Sublime and Click `Sublime Text > Preferences > Browse Packages`
+  - `/Users/<username>/Library/Application Support/Sublime Text 3/Packages/`
 
 You will want to navigate to this folder in the Command Prompt/Terminal.
 
