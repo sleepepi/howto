@@ -27,10 +27,17 @@ A collection of knowledge from the realm of Sleep Medicine Epidemiology at Brigh
 - [3200 - Request a Database](https://github.com/sleepepi/howto/blob/master/3000-provisioning/3200-request-a-database.md)
 
 
+### [4000 Local Resources](https://github.com/sleepepi/howto/blob/master/4000-local-resources/4000-local-resources.md)
+
+- [4100 - Connect to a Printer](https://github.com/sleepepi/howto/blob/master/4000-local-resources/4100-connect-to-a-printer.md)
+- [4200 - Reserve a Conference Room](https://github.com/sleepepi/howto/blob/master/4000-local-resources/4200-reserve-a-conference-room.md)
+
+
 ### [9000 Miscellaneous](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9000-miscellaneous.md)
 
 - [9010 - Activate a Network Port](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9010-activate-a-network-port.md)
 - [9020 - Reset a Partners Password](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9020-reset-a-partners-password.md)
+- [9030 - Request a Partners Email Account](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9030-request-a-partners-email-account.md)
 - [9100 - Git](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9100-git.md)
   - [9110 - Typical Git Workflow](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9110-typical-git-workflow.md)
   - [9120 - Sublime Settings](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9120-sublime-settings.md)
