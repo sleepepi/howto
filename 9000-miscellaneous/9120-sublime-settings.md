@@ -25,4 +25,4 @@ At the bottom of this file add the following four lines and make sure you use co
 
 ### Next Section
 
-[9130 - Setup SSH Key](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9130-setup-ssh-key.md)
+[9121 - Sublime Package Control](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9121-sublime-package-control.md)
