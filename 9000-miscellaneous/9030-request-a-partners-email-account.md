@@ -21,4 +21,4 @@ Contact Email Access (emailaccess@partners.org) to setup new accounts and to tro
 
 ### Next Section
 
-[9100 - Git](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9100-git.md)
+[9040 - Request VPN Access](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9040-request-vpn-access.md)

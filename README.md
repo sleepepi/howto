@@ -38,6 +38,7 @@ A collection of knowledge from the realm of Sleep Medicine Epidemiology at Brigh
 - [9010 - Activate a Network Port](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9010-activate-a-network-port.md)
 - [9020 - Reset a Partners Password](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9020-reset-a-partners-password.md)
 - [9030 - Request a Partners Email Account](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9030-request-a-partners-email-account.md)
+- [9040 - Request VPN Access](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9040-request-vpn-access.md)
 - [9100 - Git](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9100-git.md)
   - [9110 - Typical Git Workflow](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9110-typical-git-workflow.md)
   - [9120 - Sublime Settings](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9120-sublime-settings.md)
