@@ -14,4 +14,4 @@ Aaron Zschau (azschau@partners.org) at Partners Research Computing manages MAD. 
 
 ### Next Section
 
-[Back to Index](https://github.com/sleepepi/howto/blob/master/README.md)
+[2300 - Synology](https://github.com/sleepepi/howto/blob/master/2000-file-storage/2300-synology.md)

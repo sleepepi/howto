@@ -6,8 +6,11 @@
 
 > Research File Areas are ideal for researchers whose projects generate large data sets or large numbers of files that then need to be analyzed or managed. In addition to size, RFA's give researchers the ability to finely control access to data. Unlike SFAs and DFAs access permissions can be controlled at all levels of the file share to allow portions of data to be available to only a subset of users.
 
+
 ### Existing Shares
 
+- bwh-sleepepi-sof (August 2013)
+- bwh-sleepepi-mesa (August 2013)
 - bwh-sleepepi-osa (May 2013)
 - bwh-sleepepi2 (July 2012)
 - bwh-sleepepi (April 2011)
