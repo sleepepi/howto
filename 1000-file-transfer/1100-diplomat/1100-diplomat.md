@@ -59,6 +59,8 @@
     - SFTR269 - Jackson
 - Project VIVA
     - SFTR270 - Boston
+- WHI Pilot
+    - SFTR271 - Wake Forest University
 
 
 ### Key Contacts
