@@ -9,4 +9,4 @@ In order to change (add/remove) email recipients on a given job, submit a [Help 
 
 ### Next Section
 
-[Back to Index](https://github.com/sleepepi/howto/blob/master/README.md)
+[1130 - Troubleshoot Common Issues](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1100-diplomat/1130-troubleshoot-common-issues.md)

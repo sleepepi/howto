@@ -14,4 +14,4 @@ Michael Rueschman (mrueschman@partners.org) manages the local Synology device. C
 
 ### Next Section
 
-[Home Drive (H:)](https://github.com/sleepepi/howto/blob/master/2000-file-storage/2400-home-drive-h.md)
+[2400 - Home Drive (H:)](https://github.com/sleepepi/howto/blob/master/2000-file-storage/2400-home-drive-h.md)

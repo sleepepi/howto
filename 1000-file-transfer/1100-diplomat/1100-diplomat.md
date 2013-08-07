@@ -4,6 +4,7 @@
 
 - [1110 - Request a New Job](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1100-diplomat/1110-request-a-new-job.md)
 - [1120 - Change Email Recipients](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1100-diplomat/1120-change-email-recipients.md)
+- [1130 - Troubleshoot Common Issues](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1100-diplomat/1130-troubleshoot-common-issues.md)
 
 
 ### Existing Diplomat Jobs

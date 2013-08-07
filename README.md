@@ -9,6 +9,7 @@ A collection of knowledge from the realm of Sleep Medicine Epidemiology at Brigh
 - [1100 - Diplomat](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1100-diplomat/1100-diplomat.md)
   - [1110 - Request a New Job](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1100-diplomat/1110-request-a-new-job.md)
   - [1120 - Change Email Recipients](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1100-diplomat/1120-change-email-recipients.md)
+  - [1130 - Troubleshoot Common Issues](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1100-diplomat/1130-troubleshoot-common-issues.md)
 - [1200 - Tidal](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1200-tidal/1200-tidal.md)
   - [1210 - Request a New Job](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1200-tidal/1210-request-a-new-job.md)
   - [1220 - Change Email Recipients](https://github.com/sleepepi/howto/blob/master/1000-file-transfer/1200-tidal/1220-change-email-recipients.md)
