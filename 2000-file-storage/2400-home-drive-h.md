@@ -10,4 +10,4 @@ Contact the [Help Desk](http://helpdeskselfservice.partners.org/) to inquire abo
 
 ### Next Section
 
-[Back to Index](https://github.com/sleepepi/howto/blob/master/README.md)
+[Sleep Clinic Share](https://github.com/sleepepi/howto/blob/master/2000-file-storage/2500-sleep-clinic-share.md)
