@@ -9,10 +9,16 @@
 
 ### Existing Shares
 
-- bwh-sleepepi-sof (August 2013)
+- bwh-sleepepi-abc (August 2013)
+- bwh-sleepepi-chat (August 2013)
+- bwh-sleepepi-heartbeat (August 2013)
 - bwh-sleepepi-mesa (August 2013)
+- bwh-sleepepi-mros (August 2013)
+- bwh-sleepepi-shhs (August 2013)
+- bwh-sleepepi-sof (August 2013)
+- bwh-sleepepi-sol (August 2013)
 - bwh-sleepepi-osa (May 2013)
-- bwh-sleepepi2 (July 2012)
+- ~~bwh-sleepepi2~~ (July 2012; decommissioned August 2013)
 - bwh-sleepepi (April 2011)
 
 ### Key Contacts
