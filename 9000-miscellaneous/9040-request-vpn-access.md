@@ -18,4 +18,4 @@ Contact the [Help Desk](http://helpdeskselfservice.partners.org/) with questions
 
 ### Next Section
 
-[9100 - Git](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9100-git.md)
+[9050 - Lookup Partners User Information](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9050-lookup-partners-user-information.md)
