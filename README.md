@@ -40,10 +40,10 @@ A collection of knowledge from the realm of Sleep Medicine Epidemiology at Brigh
 
 ### [5000 Software](https://github.com/sleepepi/howto/blob/master/5000-software/5000-software.md)
 
-  - [5100 - SAS](https://github.com/sleepepi/howto/blob/master/5000-software/5100-sas.md)
+  - [5100 - SAS](https://github.com/sleepepi/howto/blob/master/5000-software/5100-sas/5100-sas.md)
     - [5110 - Acquiring SAS through Havard](https://github.com/sleepepi/howto/blob/master/5000-software/5100-sas/5110-acquiring-sas-through-harvard.md)
-    - [5120 - Acquiring SAS through BWH](https://github.com/sleepepi/howto/blob/master/5000-software/5100-sas/5110-acquiring-sas-through-bwh.md)
-    - [5130 - Acquiring SAS through MCPHS](https://github.com/sleepepi/howto/blob/master/5000-software/5100-sas/5110-acquiring-sas-through-mcphs.md)
+    - [5120 - Acquiring SAS through BWH](https://github.com/sleepepi/howto/blob/master/5000-software/5100-sas/5120-acquiring-sas-through-bwh.md)
+    - [5130 - Acquiring SAS through MCPHS](https://github.com/sleepepi/howto/blob/master/5000-software/5100-sas/5130-acquiring-sas-through-mcphs.md)
 
 
 
