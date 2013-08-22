@@ -1,4 +1,4 @@
-## 5110 - Acquiring SAS through Harvard ##
+## 5110 - Acquire SAS through Harvard ##
 
  **Note:** In order to purchase a SAS license through Harvard, a user must have a valid Harvard ID/PIN or eCommons ID/PIN.
 

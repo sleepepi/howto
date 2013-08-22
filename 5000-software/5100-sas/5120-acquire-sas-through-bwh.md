@@ -1,4 +1,4 @@
-## 5120 – Acquiring SAS through BWH ##
+## 5120 – Acquire SAS through BWH ##
 
 **Note:** In order to acquire SAS through Brigham & Women's, you must have a valid BWH ID.
 **Note:** BWH has currently reached its license cap for SAS, meaning new users are currently unable to receive SAS from the hospital. Users that request SAS will be added to a waiting list and will receive licenses as they are returned into the pool.
