@@ -1,4 +1,4 @@
-## 5210 - Office for Windows ##
+## 5210 - Acquire Office for Windows ##
 
 **Note:** To download and install office, users must be within the partners firewall and connected the RFA.
 

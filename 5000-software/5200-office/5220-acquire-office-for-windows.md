@@ -1,4 +1,4 @@
-## 5220 - Office for Mac ##
+## 5220 - Acquire Office for Mac ##
 
 - Currently, Microsoft Office is available free of charge to Mac users within the Partners network that are enrolled in the Partners Enterprise Apple Support (PEAS) program.
 - To enroll in the PEAS program, follow the instructions located [here](http://rc.partners.org/kb/show_article.php?id=276)
