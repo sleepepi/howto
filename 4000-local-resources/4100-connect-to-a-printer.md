@@ -23,6 +23,35 @@ Before starting with the directions below, visit the [RICOH Downloads site](http
 11. Click **Finish**
 
 
+### Mac OS X
+
+
+Go to: http://www.linuxfoundation.org/collaborate/workgroups/openprinting/macosx/pxlmono#pxlmono_for_Mac_OS_X
+
+1. Install gplgs-8.71
+
+2. Install foomatic-ri
+
+3. Install pxlmono-1.9
+
+Go to: http://support.apple.com/kb/DL902?viewlocale=en_US&locale=en_US
+
+4. Install RicohPrinterDrivers
+
+
+Open System Preferences
+
+Print and Scan
+
+Add Printer by IP
+
+RICOH Aficio MP 6001 -- IP: 172.23.134.56 (See above)
+
+Change USE: to 6001 PXL
+
+Change Finisher from Not Installed to  SR4050
+
+
 ### Key Contacts
 
 Michael Cailler (mcailler@partners.org) and Michael Rueschman (mrueschman@partners.org) at Sleep Medicine Epidemiology.
