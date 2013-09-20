@@ -5,7 +5,7 @@ The primary printer, a **RICOH Aficio MP 6001**, is located in the BLI-225 offic
 * RICOH Aficio MP 6001 -- IP: 172.23.134.56
 * RICOH Aficio MP 6002 -- IP: 172.23.134.188
 
-Before starting with the directions below, visit the [RICOH Downloads site](http://www.ricoh-usa.com/downloads/downloads.aspx) and choose the appropriate drivers (PCL 6) for your operating system. Once downloaded, extract the drivers to a known file location on your hard drive. To setup the printer on your computer, follow the instructions below.
+Before starting with the directions below, download the appropriate RICOH Drivers from the software section of the RFA space for your operating system. Once downloaded, extract the drivers to a known file location on your hard drive. To setup the printer on your computer, follow the instructions below.
 
 
 ### Windows 7
@@ -25,31 +25,20 @@ Before starting with the directions below, visit the [RICOH Downloads site](http
 
 ### Mac OS X
 
+Before you begin, download and install the following programs and drivers from the software section of the RFA space:
 
-Go to: http://www.linuxfoundation.org/collaborate/workgroups/openprinting/macosx/pxlmono#pxlmono_for_Mac_OS_X
-
-1. Install gplgs-8.71
-
-2. Install foomatic-ri
-
-3. Install pxlmono-1.9
-
-Go to: http://support.apple.com/kb/DL902?viewlocale=en_US&locale=en_US
-
-4. Install RicohPrinterDrivers
+* gplgs-8.71.dmg
+* foomatic-rip-4.0.6.230.dmg
+* pxlmono-1.9.dmg
+* RicohPrinterDrivers1.0.0.dmg
 
 
-Open System Preferences
-
-Print and Scan
-
-Add Printer by IP
-
-RICOH Aficio MP 6001 -- IP: 172.23.134.56 (See above)
-
-Change USE: to 6001 PXL
-
-Change Finisher from Not Installed to  SR4050
+1. Open System Preferences
+2. Go to the Print and Scan subsection
+3. Click the **+** icon and choose to "Add Printer by IP"
+3a. The IP address for the printer in the main office is: 172.23.134.56 (See above)
+4. Change Use: to RICOH Aficio MP 6001 PXL
+5. Change Finisher from "Not Installed" to "Finisher SR4050"
 
 
 ### Key Contacts
