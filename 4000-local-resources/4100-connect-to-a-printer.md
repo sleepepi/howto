@@ -5,6 +5,7 @@ The primary printer, a **RICOH Aficio MP 6001**, is located in the BLI-225 offic
 * RICOH Aficio MP 6001 -- IP: 172.23.134.56
 * RICOH Aficio MP 6002 -- IP: 172.23.134.188
 
+* #####Note: To get the drivers, you will have to map the sleepepi RFA share (\\\\\\rfa01\\bwh-sleepepi\\software)
 
 ### Windows 7
 
