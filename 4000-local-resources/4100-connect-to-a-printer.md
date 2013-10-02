@@ -10,6 +10,11 @@ Before starting with the directions below, download the appropriate RICOH Driver
 
 ### Windows 7
 
+Before you begin, download and install the following programs and drivers from the software section of the RFA space:
+
+* RicohPrinterDrivers1.0.0.dmg
+
+
 1. Click the **Start button**
 2. Click **Devices and Printers**
 3. Click **Add a printer**
