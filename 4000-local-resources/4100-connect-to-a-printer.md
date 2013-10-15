@@ -23,6 +23,18 @@ The primary printer, a **RICOH Aficio MP 6001**, is located in the BLI-225 offic
 11. Click **Finish**
 
 
+### Windows XP
+
+1. Click the **Start button**
+2. Click **Printers and Faxes**
+3. Click **Add a Printer**
+4. On the second page of the Add Printer Wizard, ensure that the option for a local printer is selected and uncheck "Automatically detect and install my Plug and Play printer"
+5. Select the option to **Create a new port** and choose **Standard TCP/IP Port**
+6. In the IP Address field, enter the IP address for the printer you wish to use (see above)
+7. You will eventually be prompted to select drivers for the printer. Navigate to the RICOH drivers folder on the software section of the RFA and select the appropriate drivers.
+8. Continue following the Wizard's instructions to finish adding the printer.
+
+
 ### Mac OS X
 
 Before you begin, download and install the following programs and drivers from the software section of the RFA space:
