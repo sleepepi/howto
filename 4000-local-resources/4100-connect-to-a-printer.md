@@ -48,9 +48,9 @@ Before you begin, download and install the following programs and drivers from t
 1. Open System Preferences
 2. Go to the Print and Scan subsection
 3. Click the **+** icon and choose to "Add Printer by IP"
-3a. The IP address for the printer in the main office is: 172.23.134.56 (See above)
-4. Change Use: to RICOH Aficio MP 6001 PXL
-5. Change Finisher from "Not Installed" to "Finisher SR4050"
+4. Enter the IP for the printer you wish to add (see above)
+5. Change Use: to RICOH Aficio MP 6001 PXL
+6. Change Finisher from "Not Installed" to "Finisher SR4050"
 
 
 ### Key Contacts
