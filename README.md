@@ -47,6 +47,7 @@ A collection of knowledge from the realm of Sleep Medicine Epidemiology at Brigh
     - [5210 - Acquire Office for Windows](https://github.com/sleepepi/howto/blob/master/5000-software/5200-office/5210-acquire-office-for-windows.md)
     - [5220 - Acquire Office for Mac](https://github.com/sleepepi/howto/blob/master/5000-software/5200-office/5220-acquire-office-for-mac.md)
   - [5300 - Spacelabs ABPM](https://github.com/sleepepi/howto/blob/master/5000-software/5300-abpm.md)
+  - [5400 - RemLogic](https://github.com/sleepepi/howto/blob/master/5000-software/5400-remlogic.md)
 
 
 
