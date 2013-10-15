@@ -4,5 +4,5 @@
 
  - To view the price of all software licenses/Harvard discounts, view the purchase list [here](http://huit.harvard.edu/tps_pricelist)
  - Create a quote from the price list consisting of the item number and quantity and send it to <technologyservices@harvard.edu>
-  * For the a new SAS license is currently $52.00
+  * A new SAS license is currently $52.00
  - Once you receive a quote, forward it to Michael Rueschman (mrueschman@rics.bwh.harvard.edu) and include the Harvard/eCommons ID of the person receiving the license
