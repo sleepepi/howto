@@ -9,8 +9,9 @@ There are three conference rooms available to the Division of Sleep Medicine for
 To reserve one of these rooms, write an email to bwhdsmadministration@partners.org that contains the following information:
 
 1. Room of interest
-2. Start and end times for meeting
-3. Purpose of meeting
+2. Date of reservation
+3. Start and end times for meeting
+4. Purpose of meeting
 
 
 ### Key Contacts
