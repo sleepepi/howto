@@ -11,3 +11,4 @@ Our group utilizes a variety of different software, from SAS for statistical ana
 - [5300 - Spacelabs ABPM](https://github.com/sleepepi/howto/blob/master/5000-software/5300-abpm.md)
 - [5400 - RemLogic](https://github.com/sleepepi/howto/blob/master/5000-software/5400-remlogic.md)
 - [5500 - Adobe Acrobat](https://github.com/sleepepi/howto/blob/master/5000-software/5500-adobe-acrobat.md)
+- [5600 - R](https://github.com/sleepepi/howto/blob/master/5000-software/5600-r.md)
