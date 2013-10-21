@@ -69,6 +69,7 @@ A collection of knowledge from the realm of Sleep Medicine Epidemiology at Brigh
   - [9130 - Setup SSH Key](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9130-setup-ssh-key.md)
   - [9140 - Amend a Commit Message](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9140-amend-a-commit-message.md)
   - [9150 - Unstage a File](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9150-unstage-a-file.md)
+  - [9200 - Endpoint Encryption PC](https://github.com/sleepepi/howto/blob/master/9000-miscellaneous/9200-eepc.md)
 
 
 
