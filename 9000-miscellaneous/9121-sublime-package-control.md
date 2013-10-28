@@ -16,8 +16,6 @@ You will want to navigate to this folder in the Command Prompt/Terminal.
 ```
 cd <BrowsePackagesDir>
 git clone https://github.com/wbond/sublime_package_control.git "Package Control"
-cd "Package Control"
-git checkout python3
 ```
 
 ### Next Section
