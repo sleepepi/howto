@@ -32,4 +32,4 @@ Michael Cailler (mcailler@research.bwh.harvard.edu) and Michael Rueschman (mrues
 
 ### Next Section
 
-[2200 - Massive Array of Disks (MAD)](https://github.com/sleepepi/howto/blob/master/2000-file-storage/2200-massive-array-of-disks-mad.md)
+[2120 - Changing User Permissions](https://github.com/sleepepi/howto/blob/master/2000-file-storage/2120-changing-user-permissions.md)

@@ -9,7 +9,13 @@
 
 ### Existing Shares
 
+- bwh-sleepepi-ohf (November 2013)
+- bwh-sleepepi-nsrr (October 2013)
+- bwh-sleepepi-numom2b (October 2013)
+- bwh-sleepepi-jhs (September 2013)
+- bwh-sleepepi-viva (September 2013)
 - bwh-sleepepi-abc (August 2013)
+- bwh-sleepepi-bestair (August 2013)
 - bwh-sleepepi-chat (August 2013)
 - bwh-sleepepi-heartbeat (August 2013)
 - bwh-sleepepi-mesa (August 2013)

@@ -4,6 +4,7 @@ A number of systems are used for storage of files, both locally in our office an
 
 - [2100 - Research File Area (RFA)](https://github.com/sleepepi/howto/blob/master/2000-file-storage/2100-research-file-area-rfa.md)
   - [2110 - Mapping RFA Shares](https://github.com/sleepepi/howto/blob/master/2000-file-storage/2110-mapping-rfa-shares.md)
+  - [2120 - Changing User Permissions](https://github.com/sleepepi/howto/blob/master/2000-file-storage/2120-changing-user-permissions.md)
 - [2200 - Massive Array of Disks (MAD)](https://github.com/sleepepi/howto/blob/master/2000-file-storage/2200-massive-array-of-disks-mad.md)
 - [2300 - Synology](https://github.com/sleepepi/howto/blob/master/2000-file-storage/2300-synology.md)
 - [2400 - Home Drive (H:)](https://github.com/sleepepi/howto/blob/master/2000-file-storage/2400-home-drive-h.md)
