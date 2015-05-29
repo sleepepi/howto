@@ -1,6 +1,6 @@
 ## 3100 Request a Virtual Machine
 
-New virtual machines are requested using the form found at [Research Computing - DIPR Signup](https://rc.partners.org/dipr_signup).
+New virtual machines are requested using the form found at [Research Computing Core Services](https://rcservices.partners.org/).
 
 Enter your own information for **Primary User** section.
 
