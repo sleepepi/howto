@@ -6,10 +6,10 @@ We will be using the Sublime Text 3 instructions located here: [wbond.net/sublim
 
 - Windows
   - Open Sublime and click `Preferences > Browse Packages`
-  - `C:\Users\<username>\AppData\Roaming\Sublime Text 3\Packages`
+  - `C:\Users\<username>\AppData\Roaming\Sublime Text 3\Installed Packages`
 - Mac OS X
   - Open Sublime and click `Sublime Text > Preferences > Browse Packages`
-  - `/Users/<username>/Library/Application Support/Sublime Text 3/Packages/`
+  - `/Users/<username>/Library/Application Support/Sublime Text 3/Installed Packages/`
 
 You will want to navigate to this folder in the Command Prompt/Terminal.
 
