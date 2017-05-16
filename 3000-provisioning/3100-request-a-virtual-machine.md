@@ -11,7 +11,7 @@ For **VM information**
 ```
 VM Size:
 
-    Medium: 1 GB of RAM (CentOS 6.4 +)
+    Medium: 2 GB of RAM (CentOS 7.3+)
 
 Preferred VM Name:
 
@@ -27,7 +27,7 @@ Users needing Admin Access to this VM:
 
 Applications or packages needed:
 
-    SSL, Apache
+    NONE
 ```
 
 For external access specify proxy as follows:
@@ -36,7 +36,7 @@ Request that https access goes from https://VMNAME.partners.org and that http://
 
 ### Key Contacts
 
-Most Virtual Machine DIPR requests are completed by Aaron Zschau.
+Most Virtual Machine DIPR requests are completed by Trevor Williams.
 
 
 ### Next Section
