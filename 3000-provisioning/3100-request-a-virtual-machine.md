@@ -11,7 +11,7 @@ For **VM information**
 ```
 VM Size:
 
-    Medium: 2 GB of RAM (CentOS 7.3+)
+    Standard Build: 2 GB of RAM (CentOS 7.3+)
 
 Preferred VM Name:
 
