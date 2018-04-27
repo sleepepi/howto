@@ -22,8 +22,7 @@ Expected estimated total database storage required:
 
 ### Key Contacts
 
-Most Database requests are completed by Allan Harris (ajharris@partners.org) and Eric Dyer (emdyer@partners.org).
-
+Database requests are currently handled by Mavis Ofe (mofe@partners.org).
 
 ### Next Section
 
